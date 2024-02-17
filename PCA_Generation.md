@@ -6,7 +6,7 @@ This project focused on automating the generation of Permanent Corrective Action
 ### Business Context:
 The need for an automated Permanent corrective action (PCA) generation system arose from the growing volume of issues that required timely and accurate resolution. Without a deatil PCA text, it was time-consuming and often led to delays in issue resolution. The generation of PCA was crucial in improving operational efficiency and reducing the impact of system issues on overall vehicle development process.
 
-### Technology Stack
+### Technology Stack:
  
 ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge=white) 
 ![Langchain](https://img.shields.io/badge/-Langchain-blue?style=for-the-badge=white) 
@@ -20,7 +20,7 @@ The need for an automated Permanent corrective action (PCA) generation system ar
 ![Cloud Run](https://img.shields.io/badge/-CloudRun-yellow?style=for-the-badge=black)
 
 
-### Detailed Pipeline
+### Detailed Pipeline:
 
 ![](/Images/fine_tune.PNG)
 
