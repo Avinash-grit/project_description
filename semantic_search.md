@@ -1,4 +1,4 @@
-## An NLP Semantic Search Pipeline
+## A NLP Semantic Search Pipeline
 
 ### Project Summary:
 Goal- To find the duplicate issue/ticket in Automative issue management system. where technician describe about issues while vehicle is in launch phase.
