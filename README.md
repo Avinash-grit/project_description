@@ -1,2 +1,2 @@
-# Regression
-All my work towards ML Regression. 
+# Project descriptions in detail.
+
