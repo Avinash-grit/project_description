@@ -1,2 +1,2 @@
-# Project descriptions in detail.
+# Project description in detail.
 
