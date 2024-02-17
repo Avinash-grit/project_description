@@ -1,5 +1,5 @@
 ## Project Summary:
-This project focused on automating the generation of Permanent Corrective Action (PCA) text for issues raised within a system. By leveraging advanced technologies and fine-tuning the Llama model, the project aimed to significantly reduce the time taken by engineers to address and resolve issues.
+This project focused on automating the generation of Permanent Corrective Action (PCA) text for issues raised within a system. By leveraging historical data and fine-tuning the Llama model, the project aimed to significantly reduce the time taken by engineers to address and resolve issues.
 
 ### Business Context:
 The need for an automated Permanent corrective action (PCA) generation system arose from the growing volume of issues that required timely and accurate resolution. Without a deatil PCA text, it was time-consuming and often led to delays in issue resolution. The generation of PCA was crucial in improving operational efficiency and reducing the impact of system issues on overall vehicle development process.
