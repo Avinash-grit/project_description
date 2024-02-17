@@ -14,8 +14,8 @@ The need for an automated Permanent corrective action (PCA) generation system ar
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge=white) 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-yellow?style=for-the-badge=black)
 ![GCP](https://img.shields.io/badge/-GCP-yellow?style=for-the-badge=black)
-![Big Query](https://img.shields.io/badge/-Big Query-yellow?style=for-the-badge=black)
-![Cloud Run](https://img.shields.io/badge/-Cloud Run-yellow?style=for-the-badge=black)
+![Big Query](https://img.shields.io/badge/-BigQuery-yellow?style=for-the-badge=black)
+![Cloud Run](https://img.shields.io/badge/-CloudRun-yellow?style=for-the-badge=black)
 
 
 ### Detailed Pipeline
