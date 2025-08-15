@@ -1,4 +1,4 @@
-#  QA Buddy - LLM-Powered Test Automation (Profile Version)
+#  QA Buddy - LLM-Powered Test Automation
 
 ```mermaid
 graph TB
